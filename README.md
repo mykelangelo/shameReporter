@@ -2,6 +2,7 @@
 [![Language](https://img.shields.io/badge/Go-1.13.1-lightblue.svg)](https://github.com/Naereen/badges)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mykelangelo/shameReporter)](https://goreportcard.com/report/github.com/mykelangelo/shameReporter)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/golang-standards/project-layout)
+[![Release](https://img.shields.io/github/release/mykelangelo/shameReporter.svg?style=flat-square)](https://github.com/mykelangelo/shameReporter/releases/latest)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2FshameReporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2FshameReporter?ref=badge_shield)
 [![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=mykelangelo/shameReporter)](https://dependabot.com)
 <!-- [![Snyk](https://snyk.io//test/github/mykelangelo/shameReporter/badge.svg?targetFile=build.gradle)](https://snyk.io//test/github/mykelangelo/shameReporter?targetFile=build.gradle) -->
