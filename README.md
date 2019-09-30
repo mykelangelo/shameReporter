@@ -1,5 +1,5 @@
 # shameReporter
-[![Language](https://img.shields.io/badge/Java-13-blue.svg)](https://github.com/Naereen/badges)
+[![Language](https://img.shields.io/badge/Rust-1.38.0-black.svg)](https://github.com/Naereen/badges)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmykelangelo%2Fshame-reporter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmykelangelo%2Fshame-reporter?ref=badge_shield)
 [![Dependabot](https://api.dependabot.com/badges/status?host=github&repo=mykelangelo/shame-reporter)](https://dependabot.com)
 [![Known Vulnerabilities](https://snyk.io//test/github/mykelangelo/shame-reporter/badge.svg?targetFile=build.gradle)](https://snyk.io//test/github/mykelangelo/shame-reporter?targetFile=build.gradle)
