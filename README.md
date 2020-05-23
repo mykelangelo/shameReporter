@@ -1,6 +1,6 @@
 # shameReporter
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Language](https://img.shields.io/badge/Go-1.13.1-lightblue.svg)](https://github.com/Naereen/badges)
+[![Language](https://img.shields.io/badge/Go-1.14.3-lightblue.svg)](https://github.com/Naereen/badges)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mykelangelo/shameReporter)](https://goreportcard.com/report/github.com/mykelangelo/shameReporter)
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=badge)](http://godoc.org/github.com/golang-standards/project-layout)
 [![Release](https://img.shields.io/github/release/mykelangelo/shameReporter.svg?style=badge)](https://github.com/mykelangelo/shameReporter/releases/latest)
